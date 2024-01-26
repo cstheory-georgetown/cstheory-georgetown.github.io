@@ -1,11 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: People
+permalink: /people/
 nav: true
 nav_order: 3
-display_categories: [professor, postdoc, student, alumni]
+display_categories: [faculty, postdoc, student, alumni]
 horizontal: false
 ---
 
