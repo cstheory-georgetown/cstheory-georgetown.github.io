@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chao Yan 
-description: Ph.D. Student
+description: Differential privacy, cryptography, complexity
 img: /assets/img/chao_yan.jpeg
 importance: 25
 category: student
