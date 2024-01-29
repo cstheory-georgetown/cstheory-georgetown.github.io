@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sam King 
-description: Ph.D. Student
+description: Computational complexity, Algorithms
 img: /assets/img/sam_king.jpeg
 importance: 11
 category: student
