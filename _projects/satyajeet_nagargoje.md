@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Satyajeet Nagargoje
-description: Ph.D. Student
+description: Complexity Theory
 img: /assets/img/satyajeet_nagargoje.jpeg
 importance: 14
 category: student
