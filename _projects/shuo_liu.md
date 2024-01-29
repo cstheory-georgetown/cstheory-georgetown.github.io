@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shuo Liu
-description: Ph.D. Student
+description: Distributed algorithm
 img: /assets/img/shuo_liu.jpeg
 importance: 12
 category: student
