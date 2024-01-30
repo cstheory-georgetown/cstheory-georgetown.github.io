@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Muthu Venkitasubramaniam
-description: Faculty
+description: Cryptography
 img: /assets/img/muthu_venkitasubramaniam.jpeg
 importance: 24
 category: faculty
