@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bala Kalyanasundaram
-description: Faculty
+description: Algorithms, Complexity
 img: /assets/img/bala_kalyanasundaram.jpeg
 importance: 10
 category: faculty
