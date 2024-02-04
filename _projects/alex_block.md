@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Alexander Bloc
+title: Alexander Block
 description: Former Postdoc
-img: /assets/img/alexander_bloc.jpeg
+img: /assets/img/alexander_block.jpeg
 importance: 3
 category: postdoc
 redirect: https://alexblock.io
