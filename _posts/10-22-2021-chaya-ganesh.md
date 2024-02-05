@@ -1,15 +1,22 @@
 ---
 layout: post
-title: Simulation-extractability-of-Fiat-Shamir-transformation-of-multi-round-protocols
-date: 10/22/2021: STM 326
+title: Simulation extractability of Fiat-Shamir transformation of multi-round protocols
+date: 2021-10-22 11:59:00-0400
 description: Chaya Ganesh
-tags: formatting toc
-categories: sample-posts
-giscus_comments: true
-related_posts: false
+tags: cryptography
+categories: talks-2021
+giscus_comments: false
+related_posts: true
 toc:
   beginning: true
 ---
+
+###Speaker 
+
+Chaya Ganesh
+
+
+###Abstract
 
 "The Fiat--Shamir transformation turns public-coin protocols into signature schemes, non-interactive proof systems, and signatures of knowledge (SoK). We study malleability attacks against Fiat-Shamir transformed multi-round protocols. In this talk, we will look at simulation extractability of two classes of protocols:
 
