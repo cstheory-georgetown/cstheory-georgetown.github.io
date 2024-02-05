@@ -11,12 +11,13 @@ toc:
   beginning: true
 ---
 
-###Speaker 
+### Speaker 
 
 Chaya Ganesh
+October 22, 2021. 
 
 
-###Abstract
+### Abstract
 
 "The Fiat--Shamir transformation turns public-coin protocols into signature schemes, non-interactive proof systems, and signatures of knowledge (SoK). We study malleability attacks against Fiat-Shamir transformed multi-round protocols. In this talk, we will look at simulation extractability of two classes of protocols:
 
