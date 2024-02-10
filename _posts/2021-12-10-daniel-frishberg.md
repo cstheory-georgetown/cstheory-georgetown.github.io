@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glauber Dynamics, expander graphs, and rapid mixing: a survey of problems and techniques
+title: Glauber Dynamics, expander graphs, and rapid mixing, a survey of problems and techniques
 date: 2021-12-03 11:59:00-0400
 description: S Venkitesh
 tags: boolean_function_analysis compleixty
