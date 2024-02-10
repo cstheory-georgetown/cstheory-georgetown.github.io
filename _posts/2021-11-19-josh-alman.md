@@ -13,7 +13,7 @@ toc:
 
 ### Speaker 
 
-Josh Alman
+[Josh Alman](https://joshalman.com)
 November 19, 2021. 
 
 
