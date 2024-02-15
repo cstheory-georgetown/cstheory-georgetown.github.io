@@ -4,7 +4,7 @@ title: Polynomial Time Byzantine Agreement with Optimal Resilience
 date: 2021-10-22 11:59:00-0400
 description: Seth Pettie
 tags: cryptography
-categories: fall-2021
+categories: fall-2022
 giscus_comments: false
 related_posts: true
 toc:
