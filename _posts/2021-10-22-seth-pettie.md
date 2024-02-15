@@ -13,7 +13,7 @@ toc:
 
 ### Speaker 
 
-(Seth Pettie)[https://web.eecs.umich.edu/~pettie/]
+[Seth Pettie](https://web.eecs.umich.edu/~pettie/)
 October 22, 2022. 
 
 
