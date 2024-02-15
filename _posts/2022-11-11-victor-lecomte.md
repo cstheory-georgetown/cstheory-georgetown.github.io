@@ -3,7 +3,7 @@ layout: post
 title: The Composition Complexity of Majority
 date: 2022-11-11 11:59:00-0400
 description: Victor Lecomte 
-tags: cryptography
+tags: complexity 
 categories: fall-2022
 giscus_comments: false
 related_posts: true
