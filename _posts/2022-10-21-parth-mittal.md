@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Simulation extractability of Fiat-Shamir transformation of multi-round protocols
+title:  Brooks' Theorem in Graph Streams: A Single-Pass Semi-Streaming Algorithm for Δ-Coloring
 date: 2022-10-21 11:59:00-0400
 description: Parth Mittal
 tags: streaming algorithms
