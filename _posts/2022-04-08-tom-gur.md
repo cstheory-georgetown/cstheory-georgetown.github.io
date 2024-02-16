@@ -8,7 +8,7 @@ categories: spring-2022
 giscus_comments: false
 related_posts: true
 toc:
-  beginning: true
+  beginning: false
 ---
 
 ### Speaker 
