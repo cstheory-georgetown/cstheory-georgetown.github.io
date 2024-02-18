@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kobbi Nissim
-description: Faculty
+description: Differential Privacy
 img: /assets/img/kobbi_nissim.jpeg
 importance: 16
 category: faculty
