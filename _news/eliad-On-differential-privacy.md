@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Eliad's new result titled [On Differentially Private Subspace Estimation Without Distributional Assumptions](https://arxiv.org/abs/2402.06465) is out
+[Eliad](https://sites.google.com/view/eliadtsfadia) new result titled [On Differentially Private Subspace Estimation Without Distributional Assumptions](https://arxiv.org/abs/2402.06465) is out
