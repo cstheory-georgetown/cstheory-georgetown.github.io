@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sidhant Saraogi, Sasha Golovnev and others have a new result titled [On the randomized complexity of range avoidance, with applications to cryptography and metacomplexity](https://arxiv.org/abs/2402.06465) and is out
+Eldon Chung, [Alexander Golovnev](https://golovnev.org), Zeyong Li, Maciej Obremski, [Sidhant Saraogi](https://sarsid.github.io), Noah Stephens-Davidowitz have a new result titled [On the randomized complexity of range avoidance, with applications to cryptography and metacomplexity](https://arxiv.org/abs/2402.06465) and is out
