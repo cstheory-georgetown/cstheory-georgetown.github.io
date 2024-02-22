@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Eliad Tsfadia](https://sites.google.com/view/eliadtsfadia) new result titled [On Differentially Private Subspace Estimation Without Distributional Assumptions](https://arxiv.org/abs/2402.06465) is out
+Huck Bennett, [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Philip G. Warton. new result titled [Matrix Multiplication Verification Using Coding Theory.](https://eccc.weizmann.ac.il/report/2023/193/) is out
