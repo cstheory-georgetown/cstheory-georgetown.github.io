@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laasya Bangalore
-description: Former Ph.D. Student
+description: Cryptography
 img: /assets/img/laasya_bangalore.jpeg
 importance: 1
 category: alumni
