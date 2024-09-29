@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prantar Ghosh 
-description: Former Postdoc
+description: Complexity theory 
 img: /assets/img/prantar_ghosh.jpeg
 importance: 8
 category: alumni
