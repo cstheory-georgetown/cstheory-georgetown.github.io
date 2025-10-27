@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Eliad Tsfadia
-description: Postdoc
+description: Former Postdoc
 img: /assets/img/eliad_tsfadia.jpeg
 importance: 21
-category: postdoc
+category: alumni
 redirect: https://sites.google.com/view/eliadtsfadia
 ---
