@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shuchen Zhu 
-description: Quantum computing
+description: Former Postdoc
 img: /assets/img/shuchen_zhu.jpeg
 importance: 26
 category: alumni
