@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Shuo Liu
-description: Distributed algorithm
+description: Former PhD student
 img: /assets/img/shuo_liu.jpeg
 importance: 12
-category: student
+category: alumni
 redirect: https://tenpages.github.io/about/
 ---
