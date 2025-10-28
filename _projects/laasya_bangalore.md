@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laasya Bangalore
-description: Former Postdoc
+description: Former PhD student
 img: /assets/img/laasya_bangalore.jpeg
 importance: 1
 category: alumni
