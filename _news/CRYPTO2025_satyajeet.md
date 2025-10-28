@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2025-09-17 15:59:00-0400
+inline: true
+related_posts: false
+---
+[Efficient strong 2-source non-malleable extractor for any linear min-entropy.](https://eprint.iacr.org/2025/1421.pdf) coauthored by [Divesh Aggarwal], [Pranjal Dutta], [Saswata Mukherjee], [**Satyajeet Nagargoje**](https://satyajeetn.github.io) and [Maciej Obremski] was accepted to [CRYPTO 2025](https://crypto.iacr.org/2025/).
