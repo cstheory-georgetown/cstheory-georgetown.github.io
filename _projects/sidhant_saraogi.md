@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Sidhant Saraogi 
-description: Complexity Thoery
+description: Former PhD Student
 img: /assets/img/sidhant_saraogi.jpeg
 importance: 19
-category: student
+category: alumni
 redirect: https://sarsid.github.io
 ---
