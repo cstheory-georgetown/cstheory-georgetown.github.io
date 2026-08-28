@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Bar Alon
-description: Foundations of Cryptography
+description: Former Postdoc
 img: /assets/img/bar_alon.jpeg
 importance: 21
-category: postdoc
+category: alumni
 redirect: https://www.bar-alon.com
 ---
