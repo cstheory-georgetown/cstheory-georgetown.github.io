@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Karthik Gajulapalli
-description: Ph.D. Student
+description: Former PhD Student
 img: /assets/img/karthik_gajulapalli.jpeg
 importance: 7
-category: student
+category: alumni
 redirect: https://kgajulapalli.org
 ---
