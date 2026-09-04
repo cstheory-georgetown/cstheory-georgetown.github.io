@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Justin Thaler
-description: Complexity theory, Zero Knowledge Proofs
+description: Complexity Theory, Zero-Knowledge Proofs
 img: /assets/img/justin_thaler.jpeg
 importance: 5
 category: faculty

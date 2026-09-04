@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jeremy Fineman
-description: Graph algorithms, parallel algorithms, data structures
+description: Graph Algorithms, Parallel Algorithms, Data Structures
 img: /assets/img/jeremy_fineman.jpeg
 importance: 1
 category: faculty

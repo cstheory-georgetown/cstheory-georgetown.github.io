@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Adrian Vladu
-description: Continuous optimization, combinatorial optimization, machine learning
+description: Continuous and Combinatorial Optimization
 img: /assets/img/adrian_vladu.jpeg
 importance: 9
 category: faculty
-redirect:
+redirect: https://www.adrianvladu.org
 ---

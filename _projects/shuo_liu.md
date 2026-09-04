@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shuo Liu
-description: Former PhD student
+description: Former PhD Student
 img: /assets/img/shuo_liu.jpeg
 importance: 12
 category: alumni
