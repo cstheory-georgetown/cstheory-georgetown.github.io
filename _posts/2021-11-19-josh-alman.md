@@ -11,11 +11,10 @@ toc:
   beginning: false
 ---
 
-### Speaker 
+### Speaker
 
 [Josh Alman](https://joshalman.com)
-November 19, 2021. 
-
+November 19, 2021.
 
 ### Abstract
 

@@ -2,7 +2,7 @@
 layout: post
 title: Derandomization from Time-Space Tradeoffs
 date: 2022-11-18 11:59:00-0400
-description:  Oliver Korten
+description: Oliver Korten
 tags: circuits complexity
 categories: fall-2022
 giscus_comments: false
@@ -11,15 +11,14 @@ toc:
   beginning: false
 ---
 
-### Speaker 
+### Speaker
 
 [Oliver Korten]
-November 18, 2022. 
-
+November 18, 2022.
 
 ### Abstract
 
-A recurring challenge in the theory of pseudorandomness and circuit complexity is the explicit construction of ``incompressible strings,'' i.e. finite objects which lack a specific type of structure or simplicity. In most cases, there is an associated NP search problem which we call the ``compression problem,'' where we are given a candidate object and must either find a compressed/structured representation of it or determine that none exist. For a particular notion of compressibility, a natural question is whether an efficient algorithm for the compression problem would aide us in the construction of incompressible objects. Consider the following two instances of this question:
+A recurring challenge in the theory of pseudorandomness and circuit complexity is the explicit construction of `incompressible strings,'' i.e. finite objects which lack a specific type of structure or simplicity. In most cases, there is an associated NP search problem which we call the `compression problem,'' where we are given a candidate object and must either find a compressed/structured representation of it or determine that none exist. For a particular notion of compressibility, a natural question is whether an efficient algorithm for the compression problem would aide us in the construction of incompressible objects. Consider the following two instances of this question:
 (1) Does an efficient algorithm for circuit minimization imply efficient constructions of hard truth tables?
 
 (2) Does an efficient algorithm for factoring integers imply efficient constructions of large prime numbers?

@@ -6,7 +6,6 @@ permalink: /
 news: true # includes a list of news items
 ---
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/georgetown.jpeg" class="img-fluid rounded z-depth-1" %}

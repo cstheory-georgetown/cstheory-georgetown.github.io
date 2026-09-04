@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Local Differential Privacy 
+title: Local Differential Privacy
 date: 2021-10-22 11:59:00-0400
 description: Albert Cheu
 tags: cryptography
@@ -11,11 +11,9 @@ toc:
   beginning: false
 ---
 
-### Speaker 
+### Speaker
 
-[Albert Cheu](https://albertcheu.georgetown.domains) 
-November 12, 2021. 
-
+[Albert Cheu](https://albertcheu.georgetown.domains)
+November 12, 2021.
 
 ### Abstract
-

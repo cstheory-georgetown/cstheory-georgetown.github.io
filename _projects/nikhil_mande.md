@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nikhil Mande 
+title: Nikhil Mande
 description: Former Postdoc
 img: /assets/img/nikhil_mande.jpeg
 importance: 13

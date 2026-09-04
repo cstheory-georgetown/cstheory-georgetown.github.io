@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sam King 
+title: Sam King
 description: Former PhD Student
 img: /assets/img/sam_king.jpeg
 importance: 11

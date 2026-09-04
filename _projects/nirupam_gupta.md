@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nirupam Gupta 
+title: Nirupam Gupta
 description: Former Postdoc
 img: /assets/img/nirupam_gupta.jpeg
 importance: 26

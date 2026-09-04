@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
-
 Former postdoc [Prantar Ghosh](https://sites.google.com/view/prantarg/home) joins Tennessee Technological University as an Assistant Professor in the Department of Computer Science

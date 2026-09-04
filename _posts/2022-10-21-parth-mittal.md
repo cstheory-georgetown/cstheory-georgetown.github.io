@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Brooks' Theorem in Graph Streams, A Single-Pass Semi-Streaming Algorithm for Δ-Coloring
+title: Brooks' Theorem in Graph Streams, A Single-Pass Semi-Streaming Algorithm for Δ-Coloring
 date: 2022-10-21 11:59:00-0400
 description: Parth Mittal
 tags: streaming algorithms
@@ -11,11 +11,10 @@ toc:
   beginning: false
 ---
 
-### Speaker 
+### Speaker
 
 [Parth Mittal](https://parthmittal.github.io)
-October 21, 2022. 
-
+October 21, 2022.
 
 ### Abstract
 

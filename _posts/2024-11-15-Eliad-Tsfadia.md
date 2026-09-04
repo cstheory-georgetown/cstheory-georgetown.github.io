@@ -14,10 +14,10 @@ toc:
 ### Speaker 
 
 Eliad Tsfadia
-November 14, 2025. 
-
+November 14, 2025.
 
 ### Abstract
+
 Differentially private (DP) algorithms typically exhibit a significant dependence on the dimensionality of their input, as their error or sample complexity tends to grow polynomially with the dimension. This cost of dimensionality is inherent in many problems, as Bun, Ullman, and Vadhan (STOC 2014) showed that any method that achieves lower error rates is vulnerable to tracing attacks (also known as, membership inference attacks). Unfortunately, such a cost is usually too high in many real-world scenarios like training large neural networks where the number of parameters (the ambient dimension) is very high.
 
 On the positive side, the lower bounds do not rule out the possibility of reducing the error rates for "easy" inputs. But what are "easy" inputs? And, how likely is it to see such inputs in real-world scenarios?

@@ -5,5 +5,5 @@ description: Continuous optimization, combinatorial optimization, machine learni
 img: /assets/img/adrian_vladu.jpeg
 importance: 9
 category: faculty
-redirect: 
+redirect:
 ---

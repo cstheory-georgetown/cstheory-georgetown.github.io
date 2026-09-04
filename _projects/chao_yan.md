@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chao Yan 
+title: Chao Yan
 description: Former PhD Student
 img: /assets/img/chao_yan.jpeg
 importance: 25

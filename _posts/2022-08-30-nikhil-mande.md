@@ -11,11 +11,10 @@ toc:
   beginning: false
 ---
 
-### Speaker 
+### Speaker
 
 [Nikhil Mande](https://mande-nikhil.github.io)
-October 30, 2022. 
-
+October 30, 2022.
 
 ### Abstract
 

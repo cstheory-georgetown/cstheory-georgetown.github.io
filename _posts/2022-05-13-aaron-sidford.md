@@ -11,11 +11,10 @@ toc:
   beginning: false
 ---
 
-### Speaker 
+### Speaker
 
 [Aaron Sidford](https://web.stanford.edu/~sidford/)
-May 13, 2021. 
-
+May 13, 2021.
 
 ### Abstract
 

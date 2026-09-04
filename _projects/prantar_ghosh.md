@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prantar Ghosh 
+title: Prantar Ghosh
 description: Former Postdoc
 img: /assets/img/prantar_ghosh.jpeg
 importance: 28

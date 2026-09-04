@@ -3,7 +3,7 @@ layout: post
 title: Glauber Dynamics, expander graphs, and rapid mixing, a survey of problems and techniques
 date: 2021-12-10 11:59:00-0400
 description: Daniel Frishberg
-tags: 
+tags:
 categories: fall-2021
 giscus_comments: false
 related_posts: true
@@ -11,11 +11,10 @@ toc:
   beginning: false
 ---
 
-### Speaker 
+### Speaker
 
-[Daniel Frishberg]([https://sites.google.com/view/venkitesh/home](https://users.csc.calpoly.edu/~dfrishbe/))
-December 10, 2021. 
-
+[Daniel Frishberg](<[https://sites.google.com/view/venkitesh/home](https://users.csc.calpoly.edu/~dfrishbe/)>)
+December 10, 2021.
 
 ### Abstract
 

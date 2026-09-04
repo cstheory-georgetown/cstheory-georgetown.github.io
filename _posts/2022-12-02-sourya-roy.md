@@ -11,11 +11,10 @@ toc:
   beginning: false
 ---
 
-### Speaker 
+### Speaker
 
 [Sourya Roy](https://sra2.github.io/souryar/)
-December 12, 2022. 
-
+December 12, 2022.
 
 ### Abstract
 
