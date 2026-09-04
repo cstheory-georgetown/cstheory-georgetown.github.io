@@ -55,7 +55,7 @@
       {% if include.zoomable %}
         data-zoomable
       {% endif %}
-      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+      onerror="this.onerror=null; this.parentElement.querySelector('.responsive-img-srcset')?.remove();"
     >
   </picture>
 
