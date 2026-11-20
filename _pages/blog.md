@@ -29,6 +29,11 @@ pagination:
   </div>
   {% endif %}
 
+<div class="alert alert-info text-center my-4" role="alert">
+  <i class="fa-solid fa-calendar-days"></i>
+  <strong>Stay tuned!</strong> A new seminar series is coming in <strong>Spring 2027</strong>.
+</div>
+
 {% if site.display_tags or site.display_categories %}
 
   <div class="tag-category-list">

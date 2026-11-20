@@ -3,7 +3,7 @@ layout: post
 title: Quantum Pseudoentanglement
 date: 2023-03-24 11:59:00-0400
 description: Soumik Ghosh
-tags: Quantum
+tags: quantum
 categories: spring-2023
 giscus_comments: false
 related_posts: true

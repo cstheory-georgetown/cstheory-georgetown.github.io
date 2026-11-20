@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Probabilistic Approximations of Boolean Functions via Polynomials, and Polynomial Closure Statements over the Boolean Cube
-date: 2021-10-22 11:59:00-0400
+date: 2022-02-25 11:59:00-0400
 description: S Venkitesh
 tags: boolean_function_analysis
 categories: spring-2022
